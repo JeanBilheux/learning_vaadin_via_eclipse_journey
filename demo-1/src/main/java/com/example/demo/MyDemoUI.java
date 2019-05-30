@@ -13,6 +13,7 @@ import com.vaadin.ui.VerticalLayout;
 public class MyDemoUI extends UI{
 
 	private VerticalLayout root;
+	private TextField field;
 	
 	@Override
 	protected void init(VaadinRequest request) {
@@ -31,9 +32,13 @@ public class MyDemoUI extends UI{
 	private void setupHorizontalLayout() {
 
 		Label name = new Label("First Name");
-		TextField field = new TextField("");
+		field = new TextField("");
 		field.setWidth("100%");
-		field.addValueChangeListener(event->fieldValueChanged());
+		field.addValueChangeListener(event->{
+			if (event.isUserOriginated()) {
+				fieldValueChanged();
+			}
+		});
 		
 		VerticalLayout layout = new VerticalLayout();
 		layout.addComponents(name);
@@ -44,7 +49,7 @@ public class MyDemoUI extends UI{
 	}
 
 	private Object fieldValueChanged() {
-		Notification.show("Value changed!");
+		Notification.show("Value changed to " + field.getValue());
 		return null;
 	}
 	
