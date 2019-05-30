@@ -26,7 +26,7 @@ public class MyDemoUI extends UI{
 		root = new VerticalLayout();
 		root.setDefaultComponentAlignment(Alignment.MIDDLE_CENTER);
 		setContent(root);
-		
+
 	}
 
 	private void setupHorizontalLayout() {
