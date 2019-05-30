@@ -5332,3 +5332,302 @@ Contains: Missing com.vaadin:vaadin-core:jar:javadoc:13.0.8
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:06:19.578
 !MESSAGE executing callback sts4.classpath.nWFJFmwm SUCCESS [done]
+!SESSION 2019-05-30 08:26:11.985 -----------------------------------------------
+eclipse.buildId=4.11.0.I20190307-0500
+java.version=1.8.0_211
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -keyring /Users/j35/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -data /Volumes/my_book_thunderbolt_duo/git/learning_eclipse_vaadin_via_eclipse_journey -product org.eclipse.epp.package.java.product -keyring /Users/j35/.eclipse_keyring
+
+!ENTRY org.eclipse.core.resources 2 10035 2019-05-30 08:26:14.050
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.core.net 1 0 2019-05-30 08:26:15.331
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.egit.core 1 0 2019-05-30 08:26:15.358
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.jface 2 0 2019-05-30 08:26:16.897
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-05-30 08:26:16.897
+!MESSAGE A conflict occurred for COMMAND+SHIFT+T:
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@12a0d249,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3c62be3c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-30 08:26:23.345
+!MESSAGE Schedule fetching all notifications
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-30 08:26:23.350
+!MESSAGE Schedule version update jobs
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:26:24.060
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:26:24.061
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:26:24.061
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@db6a987[org.springframework.tooling.boot.ls:1.7.0.201905231938(id=589)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:26:24.062
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@db6a987[org.springframework.tooling.boot.ls:1.7.0.201905231938(id=589)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:26:24.066
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:26:24.066
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-30 08:26:24.092
+!MESSAGE Fetching all notifications
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-30 08:26:24.093
+!MESSAGE Requesting user info (notification settings URL)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:26:24.126
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-30 08:26:24.608
+!MESSAGE HTTP Response code :200
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-30 08:26:24.621
+!MESSAGE HTTP Response code :200
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-30 08:26:24.623
+!MESSAGE Parse notifications
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-30 08:26:24.634
+!MESSAGE Save JSON notifications content to cache file /Volumes/my_book_thunderbolt_duo/git/learning_eclipse_vaadin_via_eclipse_journey/.metadata/.plugins/com.vaadin.integration.eclipse/notifications-cache.json
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-30 08:26:24.812
+!MESSAGE BrowserCore initialized.
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-30 08:26:25.357
+!MESSAGE Schedule fetching new notifications
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:26:26.717
+!MESSAGE Boot LS startup time from start to initialized: 2631ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:26:26.717
+!MESSAGE Boot LS startup time from start to initialized: 2631ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:26:26.744
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.gOpgZvCM
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:26:26.744
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.kkoswhKl
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:26:26.745
+!MESSAGE subscribing to classpath changes: sts4.classpath.gOpgZvCM
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:26:26.747
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:26:26.749
+!MESSAGE subsribers = [sts4.classpath.gOpgZvCM]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:26:26.749
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:26:26.932
+!MESSAGE project demo ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:26:26.933
+!MESSAGE project demo-1 ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:26:26.933
+!MESSAGE Preparing classpath changed notification demo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:26:26.934
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:26:26.934
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:26:26.947
+!MESSAGE subscribing to classpath changes: sts4.classpath.kkoswhKl
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:26:26.948
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.gOpgZvCM => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:26:26.951
+!MESSAGE subsribers = [sts4.classpath.kkoswhKl, sts4.classpath.gOpgZvCM]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:26:26.952
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:26:26.954
+!MESSAGE project demo ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:26:26.955
+!MESSAGE project demo-1 ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:26:26.955
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:26:26.956
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.kkoswhKl => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:26:26.958
+!MESSAGE classpath=110 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:26:26.958
+!MESSAGE executing callback sts4.classpath.gOpgZvCM demo false 110
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:26:27.005
+!MESSAGE executing callback sts4.classpath.gOpgZvCM SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:26:27.006
+!MESSAGE Preparing classpath changed notification demo-1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:26:27.007
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:26:27.011
+!MESSAGE classpath=110 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:26:27.012
+!MESSAGE executing callback sts4.classpath.kkoswhKl demo-1 false 110
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:26:27.047
+!MESSAGE executing callback sts4.classpath.kkoswhKl SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:26:27.047
+!MESSAGE Preparing classpath changed notification demo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:26:27.048
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:26:27.054
+!MESSAGE classpath=110 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:26:27.054
+!MESSAGE executing callback sts4.classpath.kkoswhKl demo false 110
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:26:27.095
+!MESSAGE executing callback sts4.classpath.kkoswhKl SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:26:27.095
+!MESSAGE Preparing classpath changed notification demo-1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:26:27.097
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:26:27.103
+!MESSAGE classpath=110 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:26:27.103
+!MESSAGE executing callback sts4.classpath.gOpgZvCM demo-1 false 110
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:26:27.116
+!MESSAGE executing callback sts4.classpath.gOpgZvCM SUCCESS [done]
+
+!ENTRY org.apache.ivyde.eclipse 1 0 2019-05-30 08:26:31.508
+!MESSAGE starting IvyDE plugin
+
+!ENTRY org.apache.ivyde.eclipse 1 0 2019-05-30 08:26:31.524
+!MESSAGE IvyDE plugin started
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-30 08:26:53.364
+!MESSAGE All vaadin 7+ projects : [P/demo, P/demo-1]
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-30 08:26:53.539
+!MESSAGE Vaadin 7+ projects to upgrade : [P/demo-1, P/demo]
+
+!ENTRY org.eclipse.lsp4e 4 0 2019-05-30 08:27:10.225
+!MESSAGE 
+!STACK 0
+java.lang.InterruptedException
+	at java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:347)
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:1915)
+	at org.eclipse.lsp4e.operations.hover.LSBasedHover.getHoverInfo(LSBasedHover.java:105)
+	at org.springframework.tooling.boot.ls.jdt.SpringBootJavaHoverProvider.getHoverInfo2(SpringBootJavaHoverProvider.java:43)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:167)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:133)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
+
+!ENTRY org.eclipse.ui 2 2 2019-05-30 08:38:55.716
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2019-05-30 08:39:17.110
+!MESSAGE Server returned lastModified <= 0 for https://github.com/topicusonderwijs/m2e-settings/raw/master/site/content.jar
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:49:53.762
+!MESSAGE Preparing classpath changed notification layout_basics
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:49:53.762
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:49:53.763
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:49:53.764
+!MESSAGE executing callback sts4.classpath.kkoswhKl layout_basics false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:49:53.767
+!MESSAGE executing callback sts4.classpath.kkoswhKl SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:49:53.767
+!MESSAGE executing callback sts4.classpath.gOpgZvCM layout_basics false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:49:53.770
+!MESSAGE executing callback sts4.classpath.gOpgZvCM SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:49:53.927
+!MESSAGE Preparing classpath changed notification layout_basics
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:49:53.927
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:49:53.933
+!MESSAGE classpath=195 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:49:53.933
+!MESSAGE executing callback sts4.classpath.kkoswhKl layout_basics false 195
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:49:55.250
+!MESSAGE executing callback sts4.classpath.kkoswhKl SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:49:55.251
+!MESSAGE executing callback sts4.classpath.gOpgZvCM layout_basics false 195
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:49:55.257
+!MESSAGE executing callback sts4.classpath.gOpgZvCM SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:50:24.241
+!MESSAGE Preparing classpath changed notification layout_basics
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:50:24.241
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:50:24.246
+!MESSAGE classpath=196 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:50:24.246
+!MESSAGE executing callback sts4.classpath.kkoswhKl layout_basics false 196
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:50:24.261
+!MESSAGE executing callback sts4.classpath.kkoswhKl SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:50:24.262
+!MESSAGE executing callback sts4.classpath.gOpgZvCM layout_basics false 196
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-30 08:50:24.272
+!MESSAGE executing callback sts4.classpath.gOpgZvCM SUCCESS [done]
