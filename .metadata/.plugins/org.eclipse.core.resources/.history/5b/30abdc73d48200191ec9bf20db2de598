@@ -1,0 +1,30 @@
+package com.example.demo;
+
+import com.vaadin.server.VaadinRequest;
+import com.vaadin.spring.annotation.SpringUI;
+import com.vaadin.ui.HorizontalLayout;
+import com.vaadin.ui.Label;
+import com.vaadin.ui.TextField;
+import com.vaadin.ui.UI;
+
+@SpringUI
+public class MyDemoUI extends UI{
+
+	@Override
+	protected void init(VaadinRequest request) {
+		
+		setupLayout();
+	}
+
+	private void setupLayout() {
+
+		Label name = new Label("First Name");
+		TextField field = new TextField("");
+		
+		HorizontalLayout layout = new HorizontalLayout();
+		layout.addComponents(name, field);
+		
+		
+	}
+	
+}
