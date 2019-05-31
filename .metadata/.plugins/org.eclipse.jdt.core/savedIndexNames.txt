@@ -1,14 +1,12 @@
 INDEX VERSION 1.131+/Volumes/my_book_thunderbolt_duo/git/learning_eclipse_vaadin_via_eclipse_journey/.metadata/.plugins/org.eclipse.jdt.core
-3623572125.index
-2635979372.index
-811177295.index
-2263558470.index
-2878855643.index
-3461709305.index
+1370327020.index
 1924484980.index
-568429069.index
-2681991802.index
-4248125602.index
-2847391066.index
-2958918940.index
-2917571204.index
+867455320.index
+1723225603.index
+3481995097.index
+712240648.index
+2646005473.index
+2629915137.index
+1382547064.index
+848222089.index
+2635979372.index
