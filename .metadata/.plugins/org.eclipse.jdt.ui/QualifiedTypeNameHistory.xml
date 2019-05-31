@@ -1,21 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="com.vaadin.ui.UI"/>
-<fullyQualifiedTypeName name="com.vaadin.spring.annotation.SpringUI"/>
-<fullyQualifiedTypeName name="com.vaadin.server.VaadinRequest"/>
 <fullyQualifiedTypeName name="aj.org.objectweb.asm.Label"/>
-<fullyQualifiedTypeName name="com.vaadin.ui.Label"/>
-<fullyQualifiedTypeName name="com.vaadin.ui.HorizontalLayout"/>
 <fullyQualifiedTypeName name="com.vaadin.ui.TextField"/>
-<fullyQualifiedTypeName name="com.vaadin.ui.Button"/>
-<fullyQualifiedTypeName name="com.vaadin.ui.VerticalLayout"/>
 <fullyQualifiedTypeName name="com.vaadin.spring.annotation.SpringComponent"/>
 <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
-<fullyQualifiedTypeName name="com.vaadin.ui.Alignment"/>
 <fullyQualifiedTypeName name="com.vaadin.ui.themes.ValoTheme"/>
 <fullyQualifiedTypeName name="com.vaadin.icons.VaadinIcons"/>
 <fullyQualifiedTypeName name="javax.persistence.Entity"/>
 <fullyQualifiedTypeName name="javax.persistence.Id"/>
 <fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
 <fullyQualifiedTypeName name="javax.persistence.GenerationType"/>
+<fullyQualifiedTypeName name="com.vaadin.flow.component.UI"/>
+<fullyQualifiedTypeName name="com.vaadin.flow.server.VaadinRequest"/>
+<fullyQualifiedTypeName name="com.vaadin.spring.annotation.SpringUI"/>
+<fullyQualifiedTypeName name="com.vaadin.server.VaadinRequest"/>
+<fullyQualifiedTypeName name="com.vaadin.ui.HorizontalLayout"/>
+<fullyQualifiedTypeName name="com.vaadin.ui.Button"/>
+<fullyQualifiedTypeName name="com.vaadin.ui.Alignment"/>
+<fullyQualifiedTypeName name="com.vaadin.ui.UI"/>
+<fullyQualifiedTypeName name="com.vaadin.navigator.Navigator"/>
+<fullyQualifiedTypeName name="com.vaadin.ui.VerticalLayout"/>
+<fullyQualifiedTypeName name="com.vaadin.ui.Label"/>
+<fullyQualifiedTypeName name="com.sans.views.Tab3"/>
+<fullyQualifiedTypeName name="com.sans.views.Tab4"/>
 </qualifiedTypeNameHistroy>

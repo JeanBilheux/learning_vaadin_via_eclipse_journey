@@ -6286,3 +6286,110 @@ java.io.FileNotFoundException: /Volumes/my_book_thunderbolt_duo/git/Eclipse/.met
 2019-05-31 08:37:49,518 [Worker-146: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2019-05-31 08:37:49,520 [Worker-146: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-05-31 08:37:49,520 [Worker-146: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/my_book_thunderbolt_duo/git/learning_eclipse_vaadin_via_eclipse_journey/sans-ui/src/test/resources
+2019-05-31 08:54:07,271 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-05-31 08:54:39,598 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Updating theme VAADIN/themes/expenses
+2019-05-31 08:54:39,812 [Thread-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Widgetsets found from classpath:
+2019-05-31 08:54:39,812 [Thread-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Addon styles found from classpath:
+2019-05-31 08:54:39,813 [Thread-17] INFO  o.e.m.c.i.embedder.EclipseLogger - 
+2019-05-31 08:54:39,813 [Thread-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Search took 6ms
+2019-05-31 08:54:39,839 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Theme "VAADIN/themes/expenses" updated
+2019-05-31 08:54:39,839 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Updating theme VAADIN/themes/exercisestheme
+2019-05-31 08:54:40,037 [Thread-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Widgetsets found from classpath:
+2019-05-31 08:54:40,037 [Thread-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Addon styles found from classpath:
+2019-05-31 08:54:40,037 [Thread-19] INFO  o.e.m.c.i.embedder.EclipseLogger - 
+2019-05-31 08:54:40,037 [Thread-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Search took 6ms
+2019-05-31 08:54:40,046 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Theme "VAADIN/themes/exercisestheme" updated
+2019-05-31 08:54:40,051 [Worker-4: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - GWT plugin is configured to detect modules, but none were found.
+2019-05-31 08:54:40,052 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - No widgetsets found - generating AppWidgetset if necessary.
+2019-05-31 08:54:40,053 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Updating widgetset AppWidgetset
+2019-05-31 08:54:40,053 [Worker-4: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Ignoring missing resource directory: /Users/j35/Downloads/Vaadin8-LayoutingBasics/Solutions/src/main/resources
+2019-05-31 08:54:40,053 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Adding resource directory to command classpath: /Users/j35/Downloads/Vaadin8-LayoutingBasics/Solutions/target/generated-resources/gwt
+2019-05-31 08:54:40,055 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using com.vaadin:vaadin-client version 8.5.1
+2019-05-31 08:54:40,185 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using com.vaadin:vaadin-client-compiler version 8.5.1
+2019-05-31 08:54:41,130 [Thread-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Widgetsets found from classpath:
+2019-05-31 08:54:41,130 [Thread-21] INFO  o.e.m.c.i.embedder.EclipseLogger - 	com.vaadin.DefaultWidgetSet in jar:file:/Users/j35/.m2/repository/com/vaadin/vaadin-client/8.5.1/vaadin-client-8.5.1.jar!/
+2019-05-31 08:54:41,130 [Thread-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Addon styles found from classpath:
+2019-05-31 08:54:41,130 [Thread-21] INFO  o.e.m.c.i.embedder.EclipseLogger - 
+2019-05-31 08:54:41,130 [Thread-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Search took 5ms
+2019-05-31 08:54:41,150 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Updating theme VAADIN/themes/expenses
+2019-05-31 08:54:43,733 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Theme "VAADIN/themes/expenses" compiled
+2019-05-31 08:54:43,733 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Updating theme VAADIN/themes/exercisestheme
+2019-05-31 08:54:46,314 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Theme "VAADIN/themes/exercisestheme" compiled
+2019-05-31 08:54:46,377 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-31 08:54:46,377 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/j35/Downloads/Vaadin8-LayoutingBasics/Solutions/src/main/resources
+2019-05-31 08:54:46,378 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-31 08:54:46,384 [Worker-4: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - GWT plugin is configured to detect modules, but none were found.
+2019-05-31 08:54:46,385 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using com.vaadin:vaadin-client version 8.5.1
+2019-05-31 08:54:46,388 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using com.vaadin:vaadin-client-compiler version 8.5.1
+2019-05-31 08:54:46,407 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-31 08:54:46,407 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/j35/Downloads/Vaadin8-LayoutingBasics/Solutions/src/test/resources
+2019-05-31 08:56:58,908 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-05-31 08:57:54,053 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-05-31 08:58:50,127 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-05-31 09:26:05,195 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-05-31 09:27:39,784 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-05-31 09:55:45,703 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-05-31 09:55:56,414 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Updating theme VAADIN/themes/expenses
+2019-05-31 09:55:56,690 [Thread-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Widgetsets found from classpath:
+2019-05-31 09:55:56,690 [Thread-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Addon styles found from classpath:
+2019-05-31 09:55:56,690 [Thread-16] INFO  o.e.m.c.i.embedder.EclipseLogger - 
+2019-05-31 09:55:56,690 [Thread-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Search took 9ms
+2019-05-31 09:55:56,716 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Theme "VAADIN/themes/expenses" updated
+2019-05-31 09:55:56,717 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Updating theme VAADIN/themes/exercisestheme
+2019-05-31 09:55:56,881 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sans:sans-ui:0.0.1-SNAPSHOT @ /Volumes/my_book_thunderbolt_duo/git/learning_eclipse_vaadin_via_eclipse_journey/sans-ui/pom.xml.
+2019-05-31 09:55:56,970 [Thread-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Widgetsets found from classpath:
+2019-05-31 09:55:56,971 [Thread-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Addon styles found from classpath:
+2019-05-31 09:55:56,971 [Thread-18] INFO  o.e.m.c.i.embedder.EclipseLogger - 
+2019-05-31 09:55:56,971 [Thread-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Search took 9ms
+2019-05-31 09:55:56,980 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Theme "VAADIN/themes/exercisestheme" updated
+2019-05-31 09:55:56,987 [Worker-4: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - GWT plugin is configured to detect modules, but none were found.
+2019-05-31 09:55:56,989 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - No widgetsets found - generating AppWidgetset if necessary.
+2019-05-31 09:55:56,990 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Updating widgetset AppWidgetset
+2019-05-31 09:55:56,990 [Worker-4: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Ignoring missing resource directory: /Users/j35/Downloads/Vaadin8-LayoutingBasics/Solutions/src/main/resources
+2019-05-31 09:55:56,990 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Adding resource directory to command classpath: /Users/j35/Downloads/Vaadin8-LayoutingBasics/Solutions/target/generated-resources/gwt
+2019-05-31 09:55:56,991 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using com.vaadin:vaadin-client version 8.5.1
+2019-05-31 09:55:57,124 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using com.vaadin:vaadin-client-compiler version 8.5.1
+2019-05-31 09:55:58,048 [Thread-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Widgetsets found from classpath:
+2019-05-31 09:55:58,049 [Thread-20] INFO  o.e.m.c.i.embedder.EclipseLogger - 	com.vaadin.DefaultWidgetSet in jar:file:/Users/j35/.m2/repository/com/vaadin/vaadin-client/8.5.1/vaadin-client-8.5.1.jar!/
+2019-05-31 09:55:58,049 [Thread-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Addon styles found from classpath:
+2019-05-31 09:55:58,049 [Thread-20] INFO  o.e.m.c.i.embedder.EclipseLogger - 
+2019-05-31 09:55:58,049 [Thread-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Search took 6ms
+2019-05-31 09:55:58,065 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Updating theme VAADIN/themes/expenses
+2019-05-31 09:56:00,838 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Theme "VAADIN/themes/expenses" compiled
+2019-05-31 09:56:00,838 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Updating theme VAADIN/themes/exercisestheme
+2019-05-31 09:56:03,453 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Theme "VAADIN/themes/exercisestheme" compiled
+2019-05-31 09:56:03,515 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-31 09:56:03,515 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/j35/Downloads/Vaadin8-LayoutingBasics/Solutions/src/main/resources
+2019-05-31 09:56:03,516 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-31 09:56:03,522 [Worker-4: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - GWT plugin is configured to detect modules, but none were found.
+2019-05-31 09:56:03,524 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using com.vaadin:vaadin-client version 8.5.1
+2019-05-31 09:56:03,527 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using com.vaadin:vaadin-client-compiler version 8.5.1
+2019-05-31 09:56:03,544 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-31 09:56:03,544 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/j35/Downloads/Vaadin8-LayoutingBasics/Solutions/src/test/resources
+2019-05-31 09:56:04,682 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-31 09:56:04,683 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-31 09:56:04,696 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-31 09:56:04,714 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-31 09:56:04,714 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/my_book_thunderbolt_duo/git/learning_eclipse_vaadin_via_eclipse_journey/demo/src/test/resources
+2019-05-31 09:56:05,343 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-31 09:56:05,353 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-31 09:56:05,354 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-31 09:56:05,357 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-31 09:56:05,357 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/my_book_thunderbolt_duo/git/learning_eclipse_vaadin_via_eclipse_journey/demo-1/src/test/resources
+2019-05-31 09:56:05,953 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-31 09:56:05,953 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-31 09:56:05,954 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-31 09:56:05,957 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-31 09:56:05,957 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/my_book_thunderbolt_duo/git/learning_eclipse_vaadin_via_eclipse_journey/sans-ui/src/test/resources
+2019-05-31 09:56:16,044 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-31 09:56:16,045 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-31 09:56:16,045 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-31 09:56:16,047 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-31 09:56:16,047 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/my_book_thunderbolt_duo/git/learning_eclipse_vaadin_via_eclipse_journey/sans-ui/src/test/resources
+2019-05-31 16:12:30,384 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-05-31 16:14:27,756 [Worker-1: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:layout_basics:0.0.1-SNAPSHOT @ /Volumes/my_book_thunderbolt_duo/git/learning_eclipse_vaadin_via_eclipse_journey/layout_basics/pom.xml.
+2019-05-31 16:14:29,065 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-31 16:14:29,069 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-31 16:14:29,082 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-31 16:14:29,085 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-31 16:14:29,085 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/my_book_thunderbolt_duo/git/learning_eclipse_vaadin_via_eclipse_journey/layout_basics/src/test/resources

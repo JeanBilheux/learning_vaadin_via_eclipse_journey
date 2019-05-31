@@ -6193,3 +6193,882 @@ java.lang.InterruptedException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-31 08:34:41.969
 !MESSAGE executing callback sts4.classpath.gOpgZvCM SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-31 08:51:45.072
+!MESSAGE Preparing classpath changed notification sans-ui
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-31 08:51:45.072
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-31 08:51:45.072
+!MESSAGE executing callback sts4.classpath.kkoswhKl sans-ui true 0
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:51:45.073
+!MESSAGE Jetty stopped at http://null:0
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:51:45.073
+!MESSAGE Removed all models from server.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-31 08:51:45.074
+!MESSAGE executing callback sts4.classpath.kkoswhKl SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-31 08:51:45.074
+!MESSAGE executing callback sts4.classpath.gOpgZvCM sans-ui true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-31 08:51:45.075
+!MESSAGE executing callback sts4.classpath.gOpgZvCM SUCCESS [done]
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:53:56.191
+!MESSAGE Jetty stopped at http://null:0
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:53:56.191
+!MESSAGE Removed all models from server.
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:53:56.192
+!MESSAGE Jetty stopped at http://null:0
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:53:56.192
+!MESSAGE Removed all models from server.
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:53:56.193
+!MESSAGE Jetty stopped at http://null:0
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:53:56.193
+!MESSAGE Removed all models from server.
+!SESSION 2019-05-31 08:53:57.641 -----------------------------------------------
+eclipse.buildId=4.11.0.I20190307-0500
+java.version=1.8.0_211
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -keyring /Users/j35/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -data file:/Volumes/my_book_thunderbolt_duo/git/learning_eclipse_vaadin_via_eclipse_journey/ -product org.eclipse.epp.package.java.product -keyring /Users/j35/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2019-05-31 08:54:01.060
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.egit.core 1 0 2019-05-31 08:54:01.104
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.jface 2 0 2019-05-31 08:54:02.714
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-05-31 08:54:02.714
+!MESSAGE A conflict occurred for COMMAND+SHIFT+T:
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@558127d2,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@12270a01,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:54:06.970
+!MESSAGE Schedule fetching all notifications
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:54:06.974
+!MESSAGE Schedule version update jobs
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:54:07.371
+!MESSAGE Fetching all notifications
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:54:07.371
+!MESSAGE Requesting user info (notification settings URL)
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:54:07.641
+!MESSAGE HTTP Response code :200
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:54:07.680
+!MESSAGE HTTP Response code :200
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:54:07.681
+!MESSAGE Parse notifications
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:54:07.738
+!MESSAGE Save JSON notifications content to cache file /Volumes/my_book_thunderbolt_duo/git/learning_eclipse_vaadin_via_eclipse_journey/.metadata/.plugins/com.vaadin.integration.eclipse/notifications-cache.json
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:54:07.935
+!MESSAGE Schedule fetching new notifications
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:54:08.319
+!MESSAGE BrowserCore initialized.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2019-05-31 08:54:23.426
+!MESSAGE Server returned lastModified <= 0 for https://github.com/topicusonderwijs/m2e-settings/raw/master/site/content.jar
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2019-05-31 08:54:34.830
+!MESSAGE Server returned lastModified <= 0 for https://github.com/topicusonderwijs/m2e-settings/raw/master/site/content.jar
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:54:37.397
+!MESSAGE All vaadin 7+ projects : [P/Solutions, P/demo, P/demo-1]
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:54:37.493
+!MESSAGE Vaadin 7+ projects to upgrade : [P/demo-1, P/demo, P/Solutions]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-31 08:54:40.051
+!MESSAGE GWT plugin is configured to detect modules, but none were found.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-31 08:54:40.053
+!MESSAGE Ignoring missing resource directory: /Users/j35/Downloads/Vaadin8-LayoutingBasics/Solutions/src/main/resources
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-31 08:54:46.385
+!MESSAGE GWT plugin is configured to detect modules, but none were found.
+
+!ENTRY org.eclipse.ui 2 2 2019-05-31 08:55:05.101
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:55:05.259
+!MESSAGE Jetty stopped at http://null:0
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:55:05.260
+!MESSAGE Removed all models from server.
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:55:05.261
+!MESSAGE Jetty stopped at http://null:0
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:55:05.261
+!MESSAGE Removed all models from server.
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:55:05.262
+!MESSAGE Jetty stopped at http://null:0
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:55:05.262
+!MESSAGE Removed all models from server.
+!SESSION 2019-05-31 08:56:50.328 -----------------------------------------------
+eclipse.buildId=4.11.0.I20190307-0500
+java.version=1.8.0_211
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -keyring /Users/j35/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -data /Volumes/my_book_thunderbolt_duo/git/learning_eclipse_vaadin_via_eclipse_journey -product org.eclipse.epp.package.java.product -keyring /Users/j35/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2019-05-31 08:56:53.592
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.egit.core 1 0 2019-05-31 08:56:53.619
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.jface 2 0 2019-05-31 08:56:55.140
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-05-31 08:56:55.140
+!MESSAGE A conflict occurred for COMMAND+SHIFT+T:
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5649f55,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@558127d2,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:56:58.616
+!MESSAGE Schedule fetching all notifications
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:56:58.621
+!MESSAGE Schedule version update jobs
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:56:59.010
+!MESSAGE Fetching all notifications
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:56:59.011
+!MESSAGE Requesting user info (notification settings URL)
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:56:59.375
+!MESSAGE HTTP Response code :200
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:56:59.394
+!MESSAGE BrowserCore initialized.
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:56:59.396
+!MESSAGE HTTP Response code :200
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:56:59.397
+!MESSAGE Parse notifications
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:56:59.401
+!MESSAGE Save JSON notifications content to cache file /Volumes/my_book_thunderbolt_duo/git/learning_eclipse_vaadin_via_eclipse_journey/.metadata/.plugins/com.vaadin.integration.eclipse/notifications-cache.json
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:56:59.502
+!MESSAGE Schedule fetching new notifications
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2019-05-31 08:57:11.366
+!MESSAGE Server returned lastModified <= 0 for https://github.com/topicusonderwijs/m2e-settings/raw/master/site/content.jar
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2019-05-31 08:57:22.249
+!MESSAGE Server returned lastModified <= 0 for https://github.com/topicusonderwijs/m2e-settings/raw/master/site/content.jar
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:57:28.973
+!MESSAGE All vaadin 7+ projects : [P/Solutions, P/demo, P/demo-1]
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:57:29.079
+!MESSAGE Vaadin 7+ projects to upgrade : [P/demo-1, P/demo, P/Solutions]
+
+!ENTRY org.eclipse.ui 2 2 2019-05-31 08:57:29.183
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:57:29.322
+!MESSAGE Jetty stopped at http://null:0
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:57:29.323
+!MESSAGE Removed all models from server.
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:57:29.323
+!MESSAGE Jetty stopped at http://null:0
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:57:29.324
+!MESSAGE Removed all models from server.
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:57:29.324
+!MESSAGE Jetty stopped at http://null:0
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:57:29.325
+!MESSAGE Removed all models from server.
+!SESSION 2019-05-31 08:57:45.450 -----------------------------------------------
+eclipse.buildId=4.11.0.I20190307-0500
+java.version=1.8.0_211
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -keyring /Users/j35/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -data /Volumes/my_book_thunderbolt_duo/git/learning_eclipse_vaadin_via_eclipse_journey -product org.eclipse.epp.package.java.product -keyring /Users/j35/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2019-05-31 08:57:48.736
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.egit.core 1 0 2019-05-31 08:57:48.763
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.jface 2 0 2019-05-31 08:57:50.245
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-05-31 08:57:50.246
+!MESSAGE A conflict occurred for COMMAND+SHIFT+T:
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6fa7ce4,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@351e86b2,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:57:53.764
+!MESSAGE Schedule fetching all notifications
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:57:53.769
+!MESSAGE Schedule version update jobs
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:57:54.151
+!MESSAGE Fetching all notifications
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:57:54.152
+!MESSAGE Requesting user info (notification settings URL)
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:57:54.509
+!MESSAGE HTTP Response code :200
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:57:54.549
+!MESSAGE HTTP Response code :200
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:57:54.549
+!MESSAGE Parse notifications
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:57:54.555
+!MESSAGE Save JSON notifications content to cache file /Volumes/my_book_thunderbolt_duo/git/learning_eclipse_vaadin_via_eclipse_journey/.metadata/.plugins/com.vaadin.integration.eclipse/notifications-cache.json
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:57:54.714
+!MESSAGE Schedule fetching new notifications
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:57:55.077
+!MESSAGE BrowserCore initialized.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2019-05-31 08:58:07.443
+!MESSAGE Server returned lastModified <= 0 for https://github.com/topicusonderwijs/m2e-settings/raw/master/site/content.jar
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2019-05-31 08:58:21.117
+!MESSAGE Server returned lastModified <= 0 for https://github.com/topicusonderwijs/m2e-settings/raw/master/site/content.jar
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:58:24.109
+!MESSAGE All vaadin 7+ projects : [P/Solutions, P/demo, P/demo-1]
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:58:24.196
+!MESSAGE Vaadin 7+ projects to upgrade : [P/demo-1, P/demo, P/Solutions]
+
+!ENTRY org.eclipse.ui 2 2 2019-05-31 08:58:27.344
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:58:27.494
+!MESSAGE Jetty stopped at http://null:0
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:58:27.494
+!MESSAGE Removed all models from server.
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:58:27.495
+!MESSAGE Jetty stopped at http://null:0
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:58:27.496
+!MESSAGE Removed all models from server.
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:58:27.496
+!MESSAGE Jetty stopped at http://null:0
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:58:27.497
+!MESSAGE Removed all models from server.
+!SESSION 2019-05-31 08:58:41.502 -----------------------------------------------
+eclipse.buildId=4.11.0.I20190307-0500
+java.version=1.8.0_211
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -keyring /Users/j35/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -data /Volumes/my_book_thunderbolt_duo/git/learning_eclipse_vaadin_via_eclipse_journey -product org.eclipse.epp.package.java.product -keyring /Users/j35/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2019-05-31 08:58:44.742
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.egit.core 1 0 2019-05-31 08:58:44.771
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.jface 2 0 2019-05-31 08:58:46.302
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-05-31 08:58:46.302
+!MESSAGE A conflict occurred for COMMAND+SHIFT+T:
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6fa7ce4,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@351e86b2,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:58:49.821
+!MESSAGE Schedule fetching all notifications
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:58:49.826
+!MESSAGE Schedule version update jobs
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:58:50.232
+!MESSAGE Fetching all notifications
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:58:50.233
+!MESSAGE Requesting user info (notification settings URL)
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:58:50.594
+!MESSAGE HTTP Response code :200
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:58:50.632
+!MESSAGE HTTP Response code :200
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:58:50.633
+!MESSAGE Parse notifications
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:58:50.636
+!MESSAGE Save JSON notifications content to cache file /Volumes/my_book_thunderbolt_duo/git/learning_eclipse_vaadin_via_eclipse_journey/.metadata/.plugins/com.vaadin.integration.eclipse/notifications-cache.json
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:58:50.761
+!MESSAGE Schedule fetching new notifications
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:58:51.184
+!MESSAGE BrowserCore initialized.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2019-05-31 08:59:05.719
+!MESSAGE Server returned lastModified <= 0 for https://github.com/topicusonderwijs/m2e-settings/raw/master/site/content.jar
+
+!ENTRY org.eclipse.ui 2 2 2019-05-31 08:59:10.054
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:59:10.245
+!MESSAGE Jetty stopped at http://null:0
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:59:10.246
+!MESSAGE Removed all models from server.
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:59:10.247
+!MESSAGE Jetty stopped at http://null:0
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:59:10.247
+!MESSAGE Removed all models from server.
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:59:10.248
+!MESSAGE Jetty stopped at http://null:0
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 08:59:10.248
+!MESSAGE Removed all models from server.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 0 2019-05-31 08:59:10.852
+!MESSAGE Unexpected error loading extension: org.eclipse.equinox.p2.metadata.repository.compositeRepository
+!STACK 0
+java.lang.IllegalStateException: BundleContext is no longer valid
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.checkValid(BundleContextImpl.java:1025)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.getServiceReference(BundleContextImpl.java:601)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.getServiceReference(BundleContextImpl.java:1052)
+	at org.eclipse.equinox.internal.p2.core.helpers.ServiceHelper.getService(ServiceHelper.java:32)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.getSharedPreferences(AbstractRepositoryManager.java:515)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.restoreRepositories(AbstractRepositoryManager.java:1018)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.getRepositoryProperty(AbstractRepositoryManager.java:567)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:234)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:476)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.addChild(CompositeMetadataRepository.java:168)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.<init>(CompositeMetadataRepository.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:124)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:770)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:671)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.getAvailableRepositories(UpdateChecker.java:152)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.checkForUpdates(UpdateChecker.java:130)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:78)
+
+!ENTRY org.eclipse.equinox.p2.updatechecker 4 0 2019-05-31 08:59:10.853
+!MESSAGE Exception in update check thread
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.findMatchingRepositoryExtensions(AbstractRepositoryManager.java:407)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:765)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:671)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.getAvailableRepositories(UpdateChecker.java:152)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.checkForUpdates(UpdateChecker.java:130)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:78)
+!SESSION 2019-05-31 09:25:49.033 -----------------------------------------------
+eclipse.buildId=4.11.0.I20190307-0500
+java.version=1.8.0_211
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/j35/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/j35/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2019-05-31 09:26:00.591
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.egit.core 1 0 2019-05-31 09:26:00.611
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.jface 2 0 2019-05-31 09:26:01.567
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-05-31 09:26:01.567
+!MESSAGE A conflict occurred for COMMAND+SHIFT+T:
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6a38e3d1,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@28cf179c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:26:04.990
+!MESSAGE Schedule fetching all notifications
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:26:04.996
+!MESSAGE Schedule version update jobs
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:26:05.290
+!MESSAGE Requesting user info (notification settings URL)
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:26:05.290
+!MESSAGE Fetching all notifications
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:26:05.663
+!MESSAGE HTTP Response code :200
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:26:05.694
+!MESSAGE HTTP Response code :200
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:26:05.696
+!MESSAGE Parse notifications
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:26:05.716
+!MESSAGE Save JSON notifications content to cache file /Volumes/my_book_thunderbolt_duo/git/learning_eclipse_vaadin_via_eclipse_journey/.metadata/.plugins/com.vaadin.integration.eclipse/notifications-cache.json
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:26:05.834
+!MESSAGE Schedule fetching new notifications
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:26:06.126
+!MESSAGE BrowserCore initialized.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2019-05-31 09:26:18.747
+!MESSAGE Server returned lastModified <= 0 for https://github.com/topicusonderwijs/m2e-settings/raw/master/site/content.jar
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2019-05-31 09:26:30.791
+!MESSAGE Server returned lastModified <= 0 for https://github.com/topicusonderwijs/m2e-settings/raw/master/site/content.jar
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:26:35.339
+!MESSAGE All vaadin 7+ projects : [P/Solutions, P/demo, P/demo-1]
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:26:35.430
+!MESSAGE Vaadin 7+ projects to upgrade : [P/demo-1, P/demo, P/Solutions]
+
+!ENTRY org.eclipse.ui 2 2 2019-05-31 09:26:38.356
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:26:38.496
+!MESSAGE Jetty stopped at http://null:0
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:26:38.497
+!MESSAGE Removed all models from server.
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:26:38.498
+!MESSAGE Jetty stopped at http://null:0
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:26:38.498
+!MESSAGE Removed all models from server.
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:26:38.499
+!MESSAGE Jetty stopped at http://null:0
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:26:38.499
+!MESSAGE Removed all models from server.
+!SESSION 2019-05-31 09:27:31.266 -----------------------------------------------
+eclipse.buildId=4.11.0.I20190307-0500
+java.version=1.8.0_211
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -keyring /Users/j35/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -data /Volumes/my_book_thunderbolt_duo/git/learning_eclipse_vaadin_via_eclipse_journey -product org.eclipse.epp.package.java.product -keyring /Users/j35/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2019-05-31 09:27:34.494
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.egit.core 1 0 2019-05-31 09:27:34.522
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.jface 2 0 2019-05-31 09:27:36.044
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-05-31 09:27:36.044
+!MESSAGE A conflict occurred for COMMAND+SHIFT+T:
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6fa7ce4,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@351e86b2,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:27:39.496
+!MESSAGE Schedule fetching all notifications
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:27:39.501
+!MESSAGE Schedule version update jobs
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:27:39.875
+!MESSAGE Fetching all notifications
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:27:39.875
+!MESSAGE Requesting user info (notification settings URL)
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:27:40.230
+!MESSAGE HTTP Response code :200
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:27:40.267
+!MESSAGE HTTP Response code :200
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:27:40.268
+!MESSAGE Parse notifications
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:27:40.272
+!MESSAGE Save JSON notifications content to cache file /Volumes/my_book_thunderbolt_duo/git/learning_eclipse_vaadin_via_eclipse_journey/.metadata/.plugins/com.vaadin.integration.eclipse/notifications-cache.json
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:27:40.278
+!MESSAGE BrowserCore initialized.
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:27:40.403
+!MESSAGE Schedule fetching new notifications
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2019-05-31 09:27:52.137
+!MESSAGE Server returned lastModified <= 0 for https://github.com/topicusonderwijs/m2e-settings/raw/master/site/content.jar
+
+!ENTRY org.eclipse.ui 2 2 2019-05-31 09:27:57.898
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:27:58.038
+!MESSAGE Jetty stopped at http://null:0
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:27:58.039
+!MESSAGE Removed all models from server.
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:27:58.040
+!MESSAGE Jetty stopped at http://null:0
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:27:58.040
+!MESSAGE Removed all models from server.
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:27:58.041
+!MESSAGE Jetty stopped at http://null:0
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:27:58.041
+!MESSAGE Removed all models from server.
+
+!ENTRY org.eclipse.equinox.p2.updatechecker 4 0 2019-05-31 09:27:58.646
+!MESSAGE Exception in update check thread
+!STACK 0
+org.eclipse.core.runtime.OperationCanceledException
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.download(RepositoryTransport.java:126)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.download(RepositoryTransport.java:158)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.handleRemoteIndexFile(AbstractRepositoryManager.java:724)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadIndexFile(AbstractRepositoryManager.java:718)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:660)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.getAvailableRepositories(UpdateChecker.java:152)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.checkForUpdates(UpdateChecker.java:130)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:78)
+!SESSION 2019-05-31 09:55:36.833 -----------------------------------------------
+eclipse.buildId=4.11.0.I20190307-0500
+java.version=1.8.0_211
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -keyring /Users/j35/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -data /Volumes/my_book_thunderbolt_duo/git/learning_eclipse_vaadin_via_eclipse_journey -product org.eclipse.epp.package.java.product -keyring /Users/j35/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2019-05-31 09:55:40.283
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.egit.core 1 0 2019-05-31 09:55:40.310
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.jface 2 0 2019-05-31 09:55:41.843
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-05-31 09:55:41.843
+!MESSAGE A conflict occurred for COMMAND+SHIFT+T:
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6fa7ce4,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@351e86b2,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:55:45.442
+!MESSAGE Schedule fetching all notifications
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:55:45.447
+!MESSAGE Schedule version update jobs
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:55:45.799
+!MESSAGE Fetching all notifications
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:55:45.800
+!MESSAGE Requesting user info (notification settings URL)
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:55:46.237
+!MESSAGE HTTP Response code :200
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:55:46.238
+!MESSAGE HTTP Response code :200
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:55:46.239
+!MESSAGE Parse notifications
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:55:46.244
+!MESSAGE Save JSON notifications content to cache file /Volumes/my_book_thunderbolt_duo/git/learning_eclipse_vaadin_via_eclipse_journey/.metadata/.plugins/com.vaadin.integration.eclipse/notifications-cache.json
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:55:46.363
+!MESSAGE Schedule fetching new notifications
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:55:46.853
+!MESSAGE BrowserCore initialized.
+
+!ENTRY org.eclipse.ui 2 2 2019-05-31 09:55:49.980
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.apache.ivyde.eclipse 1 0 2019-05-31 09:55:50.051
+!MESSAGE starting IvyDE plugin
+
+!ENTRY org.apache.ivyde.eclipse 1 0 2019-05-31 09:55:50.064
+!MESSAGE IvyDE plugin started
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-31 09:55:56.988
+!MESSAGE GWT plugin is configured to detect modules, but none were found.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-31 09:55:56.990
+!MESSAGE Ignoring missing resource directory: /Users/j35/Downloads/Vaadin8-LayoutingBasics/Solutions/src/main/resources
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2019-05-31 09:56:01.889
+!MESSAGE Server returned lastModified <= 0 for https://github.com/topicusonderwijs/m2e-settings/raw/master/site/content.jar
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-31 09:56:03.523
+!MESSAGE GWT plugin is configured to detect modules, but none were found.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2019-05-31 09:56:14.588
+!MESSAGE Server returned lastModified <= 0 for https://github.com/topicusonderwijs/m2e-settings/raw/master/site/content.jar
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:56:15.803
+!MESSAGE All vaadin 7+ projects : [P/Solutions, P/demo, P/demo-1, P/sans-ui]
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:56:15.914
+!MESSAGE Vaadin 7+ projects to upgrade : [P/demo-1, P/demo, P/Solutions, P/sans-ui]
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:58:33.395
+!MESSAGE Jetty stopped at http://null:0
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:58:33.396
+!MESSAGE Removed all models from server.
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:58:33.397
+!MESSAGE Jetty stopped at http://null:0
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:58:33.397
+!MESSAGE Removed all models from server.
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:58:33.398
+!MESSAGE Jetty stopped at http://null:0
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:58:33.398
+!MESSAGE Removed all models from server.
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:58:33.399
+!MESSAGE Jetty stopped at http://null:0
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 09:58:33.399
+!MESSAGE Removed all models from server.
+!SESSION 2019-05-31 16:12:21.151 -----------------------------------------------
+eclipse.buildId=4.11.0.I20190307-0500
+java.version=1.8.0_211
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -keyring /Users/j35/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -data /Volumes/my_book_thunderbolt_duo/git/learning_eclipse_vaadin_via_eclipse_journey -product org.eclipse.epp.package.java.product -keyring /Users/j35/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2019-05-31 16:12:24.571
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.egit.core 1 0 2019-05-31 16:12:24.597
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.jface 2 0 2019-05-31 16:12:26.277
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-05-31 16:12:26.277
+!MESSAGE A conflict occurred for COMMAND+SHIFT+T:
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5649f55,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@558127d2,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 16:12:30.143
+!MESSAGE Schedule fetching all notifications
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 16:12:30.147
+!MESSAGE Schedule version update jobs
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 16:12:30.488
+!MESSAGE Fetching all notifications
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 16:12:30.488
+!MESSAGE Requesting user info (notification settings URL)
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 16:12:30.902
+!MESSAGE HTTP Response code :200
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 16:12:30.941
+!MESSAGE HTTP Response code :200
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 16:12:30.942
+!MESSAGE Parse notifications
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 16:12:30.948
+!MESSAGE Save JSON notifications content to cache file /Volumes/my_book_thunderbolt_duo/git/learning_eclipse_vaadin_via_eclipse_journey/.metadata/.plugins/com.vaadin.integration.eclipse/notifications-cache.json
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 16:12:31.011
+!MESSAGE Schedule fetching new notifications
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 16:12:31.410
+!MESSAGE BrowserCore initialized.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2019-05-31 16:12:43.475
+!MESSAGE Server returned lastModified <= 0 for https://github.com/topicusonderwijs/m2e-settings/raw/master/site/content.jar
+
+!ENTRY org.eclipse.ui 2 2 2019-05-31 16:12:44.026
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.apache.ivyde.eclipse 1 0 2019-05-31 16:12:44.112
+!MESSAGE starting IvyDE plugin
+
+!ENTRY org.apache.ivyde.eclipse 1 0 2019-05-31 16:12:44.129
+!MESSAGE IvyDE plugin started
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 16:12:50.779
+!MESSAGE Jetty stopped at http://null:0
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 16:12:50.779
+!MESSAGE Removed all models from server.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2019-05-31 16:12:54.073
+!MESSAGE Server returned lastModified <= 0 for https://github.com/topicusonderwijs/m2e-settings/raw/master/site/content.jar
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 16:13:00.475
+!MESSAGE All vaadin 7+ projects : [P/Solutions, P/demo, P/demo-1]
+
+!ENTRY com.vaadin.designer2 1 0 2019-05-31 16:13:00.564
+!MESSAGE Vaadin 7+ projects to upgrade : [P/demo-1, P/demo, P/Solutions]
