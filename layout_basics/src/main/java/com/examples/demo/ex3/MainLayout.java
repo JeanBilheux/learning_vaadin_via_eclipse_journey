@@ -1,8 +1,8 @@
-package com.vaadin.training.framework.exercises.ex3;
+package com.examples.demo.ex3;
 
 import com.vaadin.navigator.Navigator;
-import com.vaadin.training.framework.exercises.ex3.views.FirstView;
-import com.vaadin.training.framework.exercises.ex3.views.SecondView;
+import com.examples.demo.ex3.views.FirstView;
+import com.examples.demo.ex3.views.SecondView;
 import com.vaadin.ui.Button;
 import com.vaadin.ui.HorizontalLayout;
 import com.vaadin.ui.Layout;

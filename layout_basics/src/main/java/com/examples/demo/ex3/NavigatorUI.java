@@ -1,4 +1,4 @@
-package com.vaadin.training.framework.exercises.ex3;
+package com.examples.demo.ex3;
 
 import javax.servlet.annotation.WebServlet;
 

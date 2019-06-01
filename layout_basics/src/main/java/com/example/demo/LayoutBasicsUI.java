@@ -23,14 +23,10 @@ public class LayoutBasicsUI extends UI {
 		layout.setMargin(true);
 		layout.setSizeFull();
 		setContent(layout);
-
 		
 		navigator = new Navigator(this, layout);
 		navigator.addView("", new MainView(navigator));
 		
 	}
-
-
-	
 
 }

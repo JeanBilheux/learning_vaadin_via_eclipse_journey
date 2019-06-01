@@ -28,7 +28,7 @@ public class MainView extends VerticalLayout implements View {
 
 		Button ex3 = new Button("Ex " + i++ + ": Adding Navigator");
 		Resource res = new ExternalResource("app://navigator");
-		final ResourceReference rr = ResourceReference.create(res, this, "ex10");
+		final ResourceReference rr = ResourceReference.create(res, this, "ex3");
 		ex3.addClickListener(event -> Page.getCurrent().open(rr.getURL(), null));
 		ex3.setStyleName(ValoTheme.BUTTON_LINK);
 		addComponent(ex3);
