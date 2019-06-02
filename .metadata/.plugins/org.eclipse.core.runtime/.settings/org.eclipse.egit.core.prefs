@@ -1,5 +1,5 @@
-GitRepositoriesView.GitDirectories=/Volumes/my_book_thunderbolt_duo/git/learning_eclipse_vaadin_via_eclipse_journey/.git\:
-GitRepositoriesView.GitDirectories.relative=.git\:
+GitRepositoriesView.GitDirectories=/Volumes/my_book_thunderbolt_duo/git/learning_eclipse_vaadin_via_eclipse_journey/.git\:/Volumes/my_book_thunderbolt_duo/git/sans-ui/.git\:
+GitRepositoriesView.GitDirectories.relative=.git\:/Volumes/my_book_thunderbolt_duo/git/sans-ui/.git\:
 RepositorySearchDialogSearchPath=/Volumes/my_book_thunderbolt_duo/git/learning_eclipse_vaadin_via_eclipse_journey
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1

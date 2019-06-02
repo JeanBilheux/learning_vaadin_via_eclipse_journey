@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="/Volumes/my_book_thunderbolt_duo/git/sans-ui"/>
+		<item value="/Users/j35/Downloads/Vaadin8-LayoutingBasics/Solutions"/>
+	</list>
 	<section name="NewWizardAction">
 	</section>
 	<section name="BasicNewProjectResourceWizard">
+	</section>
+	<section name="SaveAsDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="1299"/>
+		<item key="DIALOG_Y_ORIGIN" value="22"/>
+		<item key="DIALOG_WIDTH" value="525"/>
+		<item key="DIALOG_HEIGHT" value="529"/>
+		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="1266"/>
+		<item key="DIALOG_Y_ORIGIN" value="491"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+			<item value="org.eclipse.ui.preferences"/>
+			<item value=""/>
+			<item value=""/>
+		</list>
 	</section>
 </section>
